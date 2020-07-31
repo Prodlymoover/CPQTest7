@@ -1,0 +1,6 @@
+"Guid","AccountId","Comments","ContactId","Description","IsEscalated","Origin","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
+01375d31-c996-48c2-9237-9d3d51687333,210f8668-8cef-4f76-b5ce-f01cbd63911a,"#N/A",a30f1efa-3633-4a6c-b78e-596e7fe976f1,"#N/A",false,Phone,High,Instructions not clear,New,Sample Case 2: The widgets we received are the wrong size.,"#N/A","#N/A","#N/A","#N/A","#N/A"
+0dc2d7f8-5ba6-4ff8-91b2-0c202c7ffe7f,1e48f630-4510-4b33-b1cb-3c1360ebb387,"#N/A",17096d23-a1ca-48d3-982f-6d5977dbdbc7,"#N/A",false,Phone,High,"#N/A",Escalated,Sample Case: Our Widgets have not been delivered.,"#N/A","#N/A","#N/A","#N/A","#N/A"
+112f1255-348c-40ce-9582-2f6bb29d5983,cffc6344-a0e2-4532-bb46-42e3afa362a6,"#N/A",041c78b6-593b-4f81-a04b-49de0e1f4a13,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+733c6469-f3aa-4aca-a6e6-43bde80ef4c6,1e48f630-4510-4b33-b1cb-3c1360ebb387,"#N/A",17096d23-a1ca-48d3-982f-6d5977dbdbc7,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+e8c35c66-963b-4ac1-b354-c33b6afa9ade,210f8668-8cef-4f76-b5ce-f01cbd63911a,"#N/A",a30f1efa-3633-4a6c-b78e-596e7fe976f1,"#N/A",false,Phone,Low,"#N/A",On Hold,Sample Case 3: Cannot track our order.,"#N/A","#N/A","#N/A","#N/A","#N/A"
